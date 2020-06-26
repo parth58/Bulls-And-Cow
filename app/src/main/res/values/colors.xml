@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#1619CA</color>
+    <color name="colorAccent">#3B5CBE</color>
+    <color name="presed">#2196F3</color>
+    <color name="focus">#3F51B5</color>
+    <color name="defaultC">#2196F3</color>
+</resources>
